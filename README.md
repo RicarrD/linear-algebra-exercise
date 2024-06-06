@@ -1,6 +1,10 @@
 # Descrição
 Este script Python realiza a decodificação de uma mensagem criptografada usando uma matriz de criptografia predefinida. A mensagem criptografada é multiplicada pela matriz inversa da matriz de criptografia para recuperar a mensagem original.
 
+# Realização
+Este é um trabalho da seguinte disciplina
+ÁLGEBRA LINEAR - CURSO DE CIÊNCIA DA COMPUTAÇÃO - UNICARIOCA - professor Manuel Martins Filho
+
 # Pré-requisitos
 Para executar este script, você precisará de:
 
