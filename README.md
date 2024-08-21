@@ -3,7 +3,7 @@ Este script Python realiza a decodificação de uma mensagem criptografada usand
 
 # Realização
 Este é um trabalho da seguinte disciplina
-ÁLGEBRA LINEAR - CURSO DE CIÊNCIA DA COMPUTAÇÃO - UNICARIOCA - professor Manuel Martins Filho
+ÁLGEBRA LINEAR - UNICARIOCA - Professor Manuel Martins Filho
 
 # Pré-requisitos
 Para executar este script, você precisará de:
@@ -29,6 +29,3 @@ A palavra original é exibida na saída.
 
 # Observações
 Caso haja algum problema com a entrada ou processamento da palavra fornecida, o script informará e solicitará uma nova entrada.
-
-# Autor
-Ricardo dos Santos da Silva
